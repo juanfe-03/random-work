@@ -1,2 +1,2 @@
 # sciency_stuff- mostly independent projects
-#I'm an applied physics student at NYU. Not super sure what I like yet, but computetional-oriented physics fields are super interesting
+This will be a compilation of random things I code for fun, probably related to whatever I'm studying
