@@ -33,7 +33,7 @@ def get_y_list(values):
 def get_increasing(values):
     prev=0
     i=0
-    while float(values[i])>prev and i<len(values):
+    while float(values[i])>=prev and i<len(values):
         prev=float(values[i])
         i+=1
         if i==len(values)-1:
